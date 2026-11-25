@@ -1,6 +1,6 @@
 import os
 
-LINE = "Every morning I write a to-do list; every evening I write it a formal apology."
+LINE = "I'm fluent in three languages: English, sarcasm, and the apology email."
 
 
 def main() -> None:
